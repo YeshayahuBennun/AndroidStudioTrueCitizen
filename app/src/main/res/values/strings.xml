@@ -8,6 +8,8 @@
     <string name="image_description">A droid icon image</string>
 
     <string name="question_declaration">The (U.S.) Declaration of Independence was Adopted in 1776.</string>
+    <string name="correct_answer">That\'s correct</string>
+    <string name="wrong_answer">That\'s incorrect</string>
     <string name="question_constitution">The Supreme law of the land is the Constitution.</string>
     <string name="question_amendments">The (U.S.) Constitution has 26 Amendments.</string>
     <string name="question_independence_rights">The two rights in the Declaration of Independence are:
